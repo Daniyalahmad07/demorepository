@@ -1,4 +1,4 @@
 # demorepository
 This is my first repository
 <br>
-Author- Daniyal ahmad
+Author- Daniyal ahmad (Amrita)
